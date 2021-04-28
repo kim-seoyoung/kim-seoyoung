@@ -1,10 +1,10 @@
 ### Hey 👋, This is seoyoung
 
 #### 🛠 &nbsp;Technical Skills
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?logo=c%2B%2B&style=flat)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?logo=Python&style=flat)&nbsp;
-![Opencv](https://img.shields.io/badge/-Opencv-05122A?logo=Opencv&style=flat)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+<!--![Opencv](https://img.shields.io/badge/-Opencv-05122A?logo=Opencv&style=flat)&nbsp;-->
 <br>
 <br>
 
