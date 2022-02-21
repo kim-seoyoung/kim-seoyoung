@@ -1,6 +1,7 @@
 ### Hey 👋, This is seoyoung
 
 [![Notion Badge](https://img.shields.io/badge/-Porfolio-yellow?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Algorithm-Engineer-c865496864e442c99b1be1d027639967)](https://www.notion.so/Algorithm-Engineer-c865496864e442c99b1be1d027639967) 
+[![CV Badge](https://img.shields.io/badge/-CV-blue?style=flat&logoColor=white&link=https://sy-note-0.tistory.com/12)](https://sy-note-0.tistory.com/12) 
 
 ### 🛠 &nbsp;Technical Skills
 ![C++](https://img.shields.io/badge/-C++-05122A?logo=c%2B%2B&style=flat)&nbsp;
